@@ -16,7 +16,7 @@
 
 ### 加入方法：
 
-1. 在[sig-deepin-input-metthod](https://github.com/deepin-community/sig-deepin-input-method/issues)提交issues 说明想加入的原因
+1. 在[sig-deepin-input-method](https://github.com/deepin-community/sig-deepin-input-method/issues)提交issues 说明想加入的原因
 2. 订阅邮件列表
 
 加入之后会在邮件列表进行公示
@@ -36,7 +36,7 @@
 在[deepin-input-method](https://github.com/deepin-community/sig-deepin-input-method)项目的[ISSUE区](https://github.com/deepin-community/sig-deepin-input-method/issues)进行主要讨论。
 
 ## 相关链链接
-- [GitHub 上的小组团队](https://github.com/orgs/deepin-community/teams/sig-deepin-input-method)
 
+- [GitHub 上的小组仓库](https://github.com/deepin-community/sig-deepin-input-method/)
 
 
