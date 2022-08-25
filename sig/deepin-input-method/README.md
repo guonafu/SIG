@@ -19,8 +19,6 @@
 1. 在[sig-deepin-input-method](https://github.com/deepin-community/sig-deepin-input-method/issues)提交issues 说明想加入的原因
 2. [订阅邮件列表](https://www.freelists.org/list/deepin-devel)
 
-加入之后会在邮件列表进行公示
-
 ##  repository
 
 [deepin-input-method](https://github.com/deepin-community/sig-deepin-input-method)
